@@ -6,6 +6,10 @@ In each module, you will find video lessons marked with this icon :tv: and assig
 
 [:tv: Watch me before you begin](https://youtu.be/Ub8IMMMTfB8)
 
+## This is your training
+
+It is imperative that you take advantage of the resources presented to you, but I would also recommend that if you find instances where things can be improved, then please create an issue in the original repository [here](https://github.com/github-campus-advisors/Campus-Advisor-Training/issues). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.
+
 ## To Get Started
 
 1. Register for an account on [github.com](https://github.com/).

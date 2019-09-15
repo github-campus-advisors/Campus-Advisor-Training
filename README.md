@@ -29,4 +29,6 @@ This is important because Git will use this information when you work on a proje
 ## Questions
 If you have any questions regarding setup or on any of the learning modules, I would recommend visiting the [GitHub Education Community](https://education.github.community/c/teachers/advisors) for assistance.
 
-[Start Module 1: Git Basics :arrow_right:](https://github.com/github-campus-advisors/Campus-Advisor-Training/tree/master/Module%201)
+<div style="text-align: right">  
+    [Start Module 1: Git Basics :arrow_right:](https://github.com/github-campus-advisors/Campus-Advisor-Training/tree/master/Module%201)
+</div>

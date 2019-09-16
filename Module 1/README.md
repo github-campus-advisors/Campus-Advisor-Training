@@ -22,14 +22,17 @@ Module 1.1: Meet Git
 Module 1.2: The Three State Model
 
 [:tv: Module 1.2 Video](https://youtu.be/yLLZdOIuCfg)
-[:notebook: Module 1.2 Assignment]()
+
+[:notebook: Module 1.2 Assignment](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/Module%201.2%20Assignment.md)
 
 Module 1.3: Being Selective with Git
 
 [:tv: Module 1.3 Video](https://youtu.be/3zmolo8YRO8)
+
 [:notebook: Module 1.3 Assignment]()
 
 Module 1.4: Branches and Merging
 
 [:tv: Module 1.4 Video](https://youtu.be/2YDoQZ9nZ4g)
+
 [:notebook: Module 1.4 Assignment]()

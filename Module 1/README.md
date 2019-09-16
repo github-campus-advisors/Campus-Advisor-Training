@@ -17,7 +17,7 @@ Module 1.1: Meet Git
 
 [:tv: Module 1.1 Video](https://youtu.be/uWsXEmaM3PA)
 
-[:notebook: Module 1.1 Assignment]()
+[:notebook: Module 1.1 Assignment](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/Module%201.1%20Assignment.md)
 
 Module 1.2: The Three State Model
 

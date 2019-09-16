@@ -15,3 +15,7 @@ Once you have completed these steps, take a screenshot of your command line, wit
 ![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_three.png)
 
 In the body of the issue you can drag and drop your screenshot or search for it on your device. Once you have added the screenshot you can submit the issue and move to the next lesson.
+
+<hr>
+
+[:arrow_backward: Back to Module 1](https://github.com/github-campus-advisors/Campus-Advisor-Training/tree/master/Module%201)

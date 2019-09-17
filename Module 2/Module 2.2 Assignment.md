@@ -13,4 +13,4 @@ Please follow the steps below:
 fetch and merge this change into your master branch on the command line.
 
 Take a screenshot of your command line showing that you have fetched and merged these changes
-and upload your screenshot to a new Issue titled Module 2.2 Assignment.
+and upload your screenshot to a new Issue titled `Module 2.2 Assignment`.

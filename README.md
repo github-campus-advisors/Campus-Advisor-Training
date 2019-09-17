@@ -44,3 +44,9 @@ If you have any questions regarding setup or on any of the learning modules, I w
 ## To begin
 
 You will notice at the top of the page there are directories for each learning module. To begin, please click on Module 1 to start.
+
+## When you are finished
+
+Once you have completed the mandatory Modules 1-4 you are welcome to apply to be a Certified Campus Advisor. Certified Campus advisors join a community of educator leaders who champion industry tools in their classroom. Campus Advisors join a collaborative network that allows them to learn from their peers, but also share what they are doing in their classrooms. Campus Advisors also receive professional development support from GitHub.
+
+[Become a Certified Campus Advisor](https://airtable.com/shr6ZHMoHOb9kBupY)

@@ -15,7 +15,3 @@ checkout onto the Master branch in the end to ensure `HEAD` is pointing to Maste
 Once you have determined the correct sequence of git commands, take a screenshot of your command line
 and upload your screenshot to a new Issue titled Module 1.4 Assignment. If your command line is long with commands, 
 you are welcome to take multiple screenshots and upload them to the Issue.
-
-<hr>
-
-[:arrow_backward: Back to Module 1](https://github.com/github-campus-advisors/Campus-Advisor-Training/tree/master/Module%201)

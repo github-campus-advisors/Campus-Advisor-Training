@@ -12,3 +12,6 @@ Now that you have learned more about Git, on the command line I would like you t
 Once you have completed these steps, take a screenshot of your command line, with the steps above, 
 and upload your screenshot to a new Issue titled Module 1.3 Assignment.
 
+<hr>
+
+[:arrow_backward: Back to Module 1](https://github.com/github-campus-advisors/Campus-Advisor-Training/tree/master/Module%201)

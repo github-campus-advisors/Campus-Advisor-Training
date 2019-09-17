@@ -35,4 +35,9 @@ Module 1.4: Branches and Merging
 
 [:tv: Module 1.4 Video](https://youtu.be/2YDoQZ9nZ4g)
 
-[:notebook: Module 1.4 Assignment]()
+[:notebook: Module 1.4 Assignment](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/Module%201.4%20Assignment.md)
+
+<hr>
+
+[Start Module 2: GitHub Basics :arrow_right:](https://github.com/github-campus-advisors/Campus-Advisor-Training/tree/master/Module%201) 
+

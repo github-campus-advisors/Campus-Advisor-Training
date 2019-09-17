@@ -11,11 +11,10 @@ Lets do this step by step:
 ![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%202/assets/clone_one.png)
 Copy the URL and head over to the command line.
 
-2.) On the command line you want to type `git clone <YOUR URL>` where you add the URL in the place of `<YOUR URL>`.
+2. On the command line you want to type `git clone <YOUR URL>` where you add the URL in the place of `<YOUR URL>`.
 You will notice that there is some network activity happening. 
 
-3.) Once the network activity finishes, type `ls` and you will notice you havethe repository on your local machine. You
+3. Once the network activity finishes, type `ls` and you will notice you havethe repository on your local machine. You
 can `cd` into the repository and see all the files that are on GitHub are now on your local machine:
 
-Take a screenshot of your command line showing how you cloned this repository on your local machine. Create an `Issue` with the
-title `Module 2.1 Assignment` and include the screenshot in the body of the issue.
+Take a screenshot of your command line showing how you cloned this repository onto your local machine. Create an `Issue` with the title `Module 2.1 Assignment` and include the screenshot in the body of the issue.

@@ -16,9 +16,3 @@ In this module you will signup for a free AWS Educate Account and explore how to
 5.3 The Student Perspective: Assigning an AWS Cloud9 Assignment
 
 :tv: [The Student Perspective: Assigning an AWS Cloud9 Assignment](https://youtu.be/bBPRD8ytWcI)
-
-:notebook: Explore AWS Services offered through AWS Educate. Answer the following questions on the GitHub Education Community Forum:
-What service or services do you think you can utilize in your classroom? 
-Why would this service or these services be beneficial to you and your students?
-What type of assignments do you currently assign, could potentially be enhanced by this service? Explain how the assignment is currently done and how this service through AWS Educate could enhance it. 
-

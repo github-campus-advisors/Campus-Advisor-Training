@@ -20,7 +20,3 @@ Once you have created a new issue, you will be greeted by the screen below. Here
 For the Module 1.1 Assignment copy the question below and paste it into the body of the issue and answer it:
 
 `Given what you have learned about Git, why would you want to use Git in your classroom?`
-
-<hr>
-
-[:arrow_backward: Back to Module 1](https://github.com/github-campus-advisors/Campus-Advisor-Training/tree/master/Module%201)

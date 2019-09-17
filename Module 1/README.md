@@ -29,7 +29,7 @@ Module 1.3: Being Selective with Git
 
 [:tv: Module 1.3 Video](https://youtu.be/3zmolo8YRO8)
 
-[:notebook: Module 1.3 Assignment]()
+[:notebook: Module 1.3 Assignment](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/Module%201.3%20Assignment.md)
 
 Module 1.4: Branches and Merging
 

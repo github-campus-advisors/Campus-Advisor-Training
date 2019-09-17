@@ -39,5 +39,5 @@ Module 1.4: Branches and Merging
 
 <hr>
 
-[Start Module 2: GitHub Basics :arrow_right:](https://github.com/github-campus-advisors/Campus-Advisor-Training/tree/master/Module%201) 
+[Start Module 2: GitHub Basics :arrow_right:](https://github.com/github-campus-advisors/Campus-Advisor-Training/tree/master/Module%202) 
 

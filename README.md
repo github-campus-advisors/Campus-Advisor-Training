@@ -41,4 +41,6 @@ If you have any questions regarding setup or on any of the learning modules, I w
 
 <hr>
 
-[Start Module 1: Git Basics :arrow_right:](https://github.com/github-campus-advisors/Campus-Advisor-Training/tree/master/Module%201) 
+## To begin
+
+You will notice at the top of the page there are directories for each learning module. To begin, please click on Module 1 to start.

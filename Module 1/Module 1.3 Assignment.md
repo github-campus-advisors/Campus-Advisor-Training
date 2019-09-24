@@ -7,7 +7,7 @@ Now that you have learned more about Git, on the command line I would like you t
 - [ ] Show the differences between your _Working Directory_ and _Staging Area_
 - [ ] Add `campus_advisor.txt` to your _Staging Area_
 - [ ] Show the differences between your _Staging Area_ and your _Repository_
-- [ ] Commit campus_advisor.txt to your repoository
+- [ ] Commit campus_advisor.txt to your repository
 
 Once you have completed these steps, take a screenshot of your command line, with the steps above, 
 and upload your screenshot to a new Issue titled Module 1.3 Assignment.

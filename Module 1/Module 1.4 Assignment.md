@@ -7,5 +7,4 @@ You were introduced to the tool [Visualizing Git](http://git-school.github.io/vi
 Note, there is more than one way to replicate 
 this visualization. 
 
-Once you have determined the correct sequence of git commands, take a screenshot of your work
-and upload your screenshot to a new Issue titled Module 1.4 Assignment. 
+Once you have determined the correct sequence of git commands, take a screenshot of your work, including the command line in the visualizer, and upload your screenshot to a new Issue titled Module 1.4 Assignment. 

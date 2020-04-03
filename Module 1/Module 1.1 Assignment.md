@@ -17,6 +17,6 @@ Once you have created a new issue, you will be greeted by the screen below. Here
 
 ![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_three.png)
 
-For the Module 1.1 Assignment copy the question below and paste it into the body of the issue and answer it:
+For the Module 1.1 Assignment, copy the question below and paste it into the body of the issue, then answer it:
 
 `Given what you have learned about Git, why would you want to use Git in your classroom?`

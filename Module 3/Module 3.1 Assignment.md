@@ -4,10 +4,12 @@ https://education.github.com/discount_requests/new
 
 Once verified you can easily upgrade any GitHub organization being used for academic purposes to [GitHub Team](https://github.com/pricing) with a single click.
 
-Simply visit your GitHub Education benefits page at https://education.github.com/benefits.
+Simply visit your [GitHub Education Teacher Toolbox](https://education.github.com/toolbox/offers). You'll find the upgrade offer listed under GitHub as "Self-serve free Team plans to academic organizations you own."
 
-Organizations you own will be listed near the bottom of the page:
+Or, directly access the offer at https://education.github.com/toolbox/offers/github-org-upgrades
 
-![screenshot 2019-03-06 at 12 13 06 pm](https://user-images.githubusercontent.com/6764844/53907148-cd043880-4009-11e9-8449-be66e15e13e1.png)
+Organizations you own will be listed. Click the **Upgrade** button next to the organization name to immediately upgrade it for free to GitHub Team.
+
+<img width="1082" alt="List of example organizations owned by an account. Organizations that have already been upgraded show 'Coupon Already Applied'. Organizations that have not been updated show 'Upgrade'" src="https://user-images.githubusercontent.com/2359538/78514095-39a1b780-7775-11ea-91af-c25619761fa7.png">
 
 Click the **Upgrade** button next to the organization name to immediately upgrade it for free to GitHub Team.

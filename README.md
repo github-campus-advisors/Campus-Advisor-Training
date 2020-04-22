@@ -47,6 +47,11 @@ You will notice at the top of the page there are directories for each learning m
 
 ## When you are finished
 
-Once you have completed the mandatory Modules 1-4 you are welcome to apply to be a Certified Campus Advisor. Certified Campus advisors join a community of educator leaders who champion industry tools in their classroom. Campus Advisors join a collaborative network that allows them to learn from their peers, but also share what they are doing in their classrooms. Campus Advisors also receive professional development support from GitHub.
+Educators who have been approved for GitHub Education benefits for faculty are welcome to take the next step of applying to become a Certified Campus Advisor. 
 
-[Become a Certified Campus Advisor](https://airtable.com/shr6ZHMoHOb9kBupY)
+Certified Campus Advisors join a community of educator leaders who champion industry tools in their classroom. Campus Advisors join a collaborative network that allows them to learn from their peers, but also share what they are doing in their classrooms. Campus Advisors also receive professional development support from GitHub.
+
+Once you have completed the mandatory Modules 1-4, you can find a link to the Campus Advisor application in the [GitHub Teacher Toolbox](https://education.github.com/toolbox/offers). We will review your training materials and follow up with you to schedule an interview.
+
+![image](https://user-images.githubusercontent.com/2359538/79942050-88b14300-842b-11ea-8f33-c6aff6859ce5.png)
+

@@ -53,5 +53,6 @@ Certified Campus Advisors join a community of educator leaders who champion indu
 
 Once you have completed the mandatory Modules 1-4, you can find a link to the Campus Advisor application in the [GitHub Teacher Toolbox](https://education.github.com/toolbox/offers). We will review your training materials and follow up with you to schedule an interview.
 
-![image](https://user-images.githubusercontent.com/2359538/79942050-88b14300-842b-11ea-8f33-c6aff6859ce5.png)
+![Campus Advisor offer in the Teacher Toolbox](https://user-images.githubusercontent.com/2359538/79942524-a7fca000-842c-11ea-8e30-5de3d8e42f6f.png)
+
 

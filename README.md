@@ -1,7 +1,7 @@
 # Welcome to Campus Advisor Training
 Welcome to Campus Advisor training, we’re so happy you’re here!
 In this training, you will be presented with a mix of video lessons and assignments. All videos and assignments can be found in this repository under their respective modules.
-In each module, you will find video lessons marked with this icon [Lesson 📺 ] and assignments will be marked with this icon [Assignment 📓 ]. 
+In each module, you will find video lessons marked with this icon 📺 and assignments will be marked with this icon Assignment 📓. 
 
 ## To begin
 Your journey begins in Module 0, where you’ll setup everything you need to complete the training.

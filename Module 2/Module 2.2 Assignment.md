@@ -1,16 +1,12 @@
 # Module 2.2 Assignment
 
-In this exercise you are going to make a change to this document on GitHub. As mentioned in the video, you can edit documents
-on GitHub by clicking the edit button and committing those changes. 
+In this lesson, you learned how to commit file changes, create branches, and fetch and pull updates from GitHub. To complete this assignment, you’ll change this file in a new branch on GitHub and then pull the changes to your local repository by following the instructions below:
 
-Please follow the steps below:
+1. Create a new branch named `edit-module-assignment` on GitHub
+2. On the `edit-module-assignment` branch, edit this file `Module 2.2 Assignment.md` by clicking the pencil, or 'Edit', icon
+3. In the editor for `Module 2.2 Assignment`, add your name on the first line above the title, then scroll towards the bottom of the page and click “Commit changes”
+4. On the `Campus-Advisor-Training` repository you cloned to your computer in the last assignment, fetch and merge the changes you’ve made in this file into your `master` branch using the command line
 
-1. Create a new branch called `edit-module-assignment` on GitHub
-2. On the `edit-module-assignment` branch, find this document, `Module 2.2 Assignment` and click the edit button.
-3. In the editor for `Module 2.2 Assignment` add your name at the top of the document.
-4. Scroll down and commit these changes.
-5. On your local repository (on your computer) of the `Campus-Advisor_Training` repository, which we cloned in the last assignment,
-fetch and merge this change into your master branch on the command line.
 
-Take a screenshot of your command line showing that you have fetched and merged these changes
-and upload your screenshot to a new Issue titled `Module 2.2 Assignment`.
+## Submission
+To submit this assignment, create an issue titled `Module 2.2 Assignment` in this repository. In the issue, provide a screenshot of your command line showing the commands you used to complete this assignment, then proceed to the next section in this module.

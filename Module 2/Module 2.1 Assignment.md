@@ -1,20 +1,17 @@
 # Module 2.1 Assignment
 
-In this assignment you will create a remote on your computer with this repository. In [Module 2.1](https://youtu.be/R2bLo-KiYlU)
-you were given an introduction on how to create a remote from scratch, but what happens if you want to create a remote for a
-repository that already exists. Now, if a repository already exists, and it already has code that you want, 
-you can actually copy it to your local machine using the command `git clone` followed by the Repository URL.
+In this lesson, you learned how to create a remote repository from scratch. In this assignment, you’ll learn how to clone a repository on GitHub to your local machine, allowing you to manage and edit files locally. To complete this assignment, follow the instructions below:
 
-Lets do this step by step:
+1. On GitHub, navigate to the main page of this repository. Click the green button that says `Code` then copy the URL by clicking the gray clipboard icon.  
+ 
+     ![GIF demonstrating how to copy a remote URL](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/ca-eval-updates/Module%202/assets/clone-code.gif)
 
-1. First you need to find the repository URL in the root of the repository. You should see a button that says `Clone or Download`:
-![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%202/assets/clone_one.png)
-Copy the URL and head over to the command line.
+2. On the command line, type `git clone` along with the URL you copied earlier, then press Enter.  
+```
+$ git clone https://github.com/YOUR-REPOSITORY.git
+```
 
-2. On the command line you want to type `git clone <YOUR URL>` where you add the URL in the place of `<YOUR URL>`.
-You will notice that there is some network activity happening. 
+3. After the repository has successfully cloned to your machine, type `ls` in your terminal to view the newly cloned repository in your machine’s directory.
 
-3. Once the network activity finishes, type `ls` and you will notice you have the repository on your local machine. You
-can `cd` into the repository and see all the files that are on GitHub are now on your local machine:
-
-Take a screenshot of your command line showing how you cloned this repository onto your local machine. Create an `Issue` with the title `Module 2.1 Assignment` and include the screenshot in the body of the issue.
+## Submission
+To submit this assignment, create an issue titled `Module 2.1 Assignment` in this repository. In the issue, provide a screenshot of your command line showing the commands you used to complete this assignment, then proceed to the next section in this module.

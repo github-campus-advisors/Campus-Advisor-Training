@@ -1,6 +1,8 @@
 # Module 2.1 Assignment
 
-In this lesson, you learned how to create a remote repository from scratch. In this assignment, you’ll learn how to clone a repository on GitHub to your local machine, allowing you to manage and edit files locally. To complete this assignment, follow the instructions below:
+In this lesson, you learned how to create a remote repository from scratch. But what happens if you want to create a local version of a remote repository that already exists? Now, if a repository already exists, and it already has code that you want, you can actually copy it to your local machine using the command `git clone` followed by the Repository URL.  
+
+In this assignment, you’ll learn how to clone a repository on GitHub to your local machine, allowing you to manage and edit files locally. To complete this assignment, follow the instructions below:
 
 1. On GitHub, navigate to the main page of this repository. Click the green button that says `Code` then copy the URL by clicking the gray clipboard icon.  
  

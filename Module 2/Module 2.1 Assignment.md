@@ -4,7 +4,7 @@ In this lesson, you learned how to create a remote repository from scratch. But 
 
 In this assignment, you’ll learn how to clone a repository on GitHub to your local machine, allowing you to manage and edit files locally. To complete this assignment, follow the instructions below:
 
-1. On GitHub, navigate to the main page of this repository. Click the green button that says `Code` then copy the URL by clicking the gray clipboard icon.  
+1. Navigate to the main page of this repository on GitHub. Click the green button that says `Code` then copy the URL by clicking the gray clipboard icon.  
  
      ![GIF demonstrating how to copy a remote URL](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/ca-eval-updates/Module%202/assets/clone-code.gif)
 

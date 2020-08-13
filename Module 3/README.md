@@ -17,7 +17,7 @@ Equivalent: Completion of the GitHub Teacher Professional Development program
 **All assignment files can be found at the top of the page.**
 
 ### Module 3.0: Overview of GitHub Classroom
-📺  [ Module 3.0 Video]()  
+📺  [ Module 3.0 Video](https://youtu.be/CXacEwR9trw)  
 
 ### Module 3.1: Get started with GitHub Classroom by creating your first organization and Classroom
 📺  [ Module 3.1 Video](https://www.youtube.com/watch?v=KXWXg68KpTY)  

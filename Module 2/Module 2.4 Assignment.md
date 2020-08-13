@@ -1,6 +1,6 @@
 # Module 2.4 Assignment
 
-In this lesson, you learned about merge conflicts. To complete this assignment, you’ll create a README.md file that says “Hello World”. Copy and paste the following commands on your command line, then press Enter:
+In this lesson, you learned about merge conflicts. To complete this assignment, you’ll create a `README.md` file that says “Hello World”. Copy and paste the following commands on your command line, then press Enter:
 
 ```
 mkdir MergeConflict

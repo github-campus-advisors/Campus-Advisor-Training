@@ -1,6 +1,6 @@
 # Module 2.2 Assignment
 
-In this lesson, you learned how to commit file changes, create branches, and fetch and pull updates from GitHub. To complete this assignment, you’ll change this file on a different branch and then pull the changes to your local repository by following the instructions below:
+In this lesson, you learned how to commit file changes, create branches, and fetch and pull updates from GitHub. To complete this assignment, you’ll change this file in a new branch on GitHub and then pull the changes to your local repository by following the instructions below:
 
 1. Create a new branch named `edit-module-assignment` on GitHub
 2. On the `edit-module-assignment` branch, edit this file `Module 2.2 Assignment.md` by clicking the pencil icon
@@ -10,4 +10,3 @@ In this lesson, you learned how to commit file changes, create branches, and fet
 
 ## Submission
 To submit this assignment, create an issue titled `Module 2.2 Assignment` in this repository. In the issue, provide a screenshot of your command line showing the commands you used to complete this assignment, then proceed to the next section in this module.
-

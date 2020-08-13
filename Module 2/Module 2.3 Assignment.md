@@ -1,14 +1,12 @@
 # Module 2.3 Assignment
 
-Similar to the last exercise, you are going to make a change to this document, but you will make the change on the command line
-using your local repository. (Review Module 2.3 video for guidance)
+In this lesson, you learned how branches are used in the GitHub workflow. To complete this assignment, you’ll change this file on a different branch using the command line from your local repository by following the instructions below:
 
-You will do the following:
-1. Create a new branch called `assignment-edit` on the command line of your local repository on your computer.
-2. Edit this document, `Module 2.3 Assignment.md` by adding your name on the first line. 
-3. Once you have edited `Module 2.3 Assignment.md`, push those changes to GitHub.
-4. On GitHub create a Pull Request to merge these changes into the Master branch. 
-5. Delete the `assignment-edit` branch after the merge.
+1. Create a new branch named `assignment-edit` in your repository using the command line
+2. Edit this file `Module 2.3 Assignment.md` by using a text editor to add your name on the first line above the title, then save your changes
+3. Push your changes to GitHub from the command line (Need help pushing to GitHub? [Watch Module 2.1](https://youtu.be/R2bLo-KiYlU))
+4. Create a Pull Request on GitHub after you’ve pushed your changes to compare the two branches, then merge these changes into the `master` branch
+5. Delete the `assignment-edit` branch after you’ve successfully merged your branch
 
-Take a screenshot of your command line showing that you have committed and pushed your change
-and upload your screenshot to a new Issue titled `Module 2.3 Assignment`. 
+## Submission
+To submit this assignment, create an issue titled `Module 2.3 Assignment` in this repository. In the issue, provide a screenshot of your command line showing the commands you used to complete this assignment, then proceed to the next section in this module.

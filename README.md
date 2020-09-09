@@ -9,6 +9,9 @@ In each module, you will find video lessons marked with this icon 📺 and assig
 Your journey begins in Module 0, where you’ll setup everything you need to complete the training.
 
 ## When you are finished
+
+> **Note: Campus Advisor approvals are currently on hold. You may continue with your application, but applications will not be reviewed and interviews will not be offered before December 2020. You may apply now, and we will reach out to you when approvals resume in December.**
+
 Once you have completed the training, you’re free to end there with your new knowledge. If you want to take it a step further, you might want to become a GitHub Campus Advisor.
 
 GitHub Campus Advisors are a community of educator leaders who champion industry tools in their classroom. As a Campus Advisor, you’ll:
@@ -18,6 +21,8 @@ GitHub Campus Advisors are a community of educator leaders who champion industry
  
 Educators who have been approved for faculty benefits through the GitHub Teacher Toolbox may apply to become a Campus Advisor.
 Once you have completed Modules 1-4, you can find a link to the Campus Advisor application in the [GitHub Teacher Toolbox](https://education.github.com/toolbox/offers). After filling that out, we will review your training materials and follow up with you to schedule a short 15-minute interview.
+
+> **Note: Campus Advisor approvals are currently on hold. You may continue with your application, but applications will not be reviewed and interviews will not be offered before December 2020. You may apply now, and we will reach out to you when approvals resume in December.**
 
 ## This is your training
 It is beneficial that you take advantage of the resources presented to you, but if you find instances where things can be improved, please create an issue in the original repository [here](https://github.com/github-campus-advisors/Campus-Advisor-Training/issues). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.

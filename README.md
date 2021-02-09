@@ -27,7 +27,8 @@ A Campus Advisor applicant should:
 Learn more about the Campus Advisors program at https://education.github.com/advisors.
 
 ## This is your training
-It is beneficial that you take advantage of the resources presented to you, but if you find instances where things can be improved, please contact GitHub Education support at http://education.github.com/contact and include a link to your repository (the URL to this page) in your message.
+
+It is beneficial that you take advantage of the resources presented to you, but if you find instances where things can be improved, please create an issue in the original repository [here](https://github.com/github-campus-advisors/Campus-Advisor-Training/issues/new?assignees=arelia&labels=suggestion&template=suggestion.md&title=%5BSUGGESTION%5D+Suggestion+title). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.
 
 ## Questions
 If you have any questions regarding setup or on any of the learning modules, head over to the [GitHub Education Community](https://education.github.community/c/teachers/advisors) for assistance.

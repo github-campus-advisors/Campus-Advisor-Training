@@ -13,7 +13,7 @@ In this section, you learned how to create your first assignment in GitHub Class
 - Click “Create assignment”  
 
   
-For this assignment, create an individual assignment in GitHub Classroom that contains the following:
+To practice, create an individual assignment in GitHub Classroom that contains the following:
 - No assignment deadline
 - Starter code from a repository in your organization (Need help creating a repository? Watch our [Git and GitHub Basics video](https://www.youtube.com/watch?v=tswF0wpAbTo))
 - Private repository visibility
@@ -21,5 +21,5 @@ For this assignment, create an individual assignment in GitHub Classroom that co
 
   
 ## Submission
-To submit this assignment, create an issue titled `Module 3.2 Assignment` in this repository. In the issue, provide the invitation link to accept the assignment you created then proceed to the next section in this module.
+There is no submission for this assignment
 

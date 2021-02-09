@@ -9,9 +9,6 @@ Welcome to Module 3! In this module, you will be introduced to GitHub Classroom.
 - How to configure online IDEs with assignments
 - How to add autograding to your assignments
 
-**Prerequisites**: Module 1 and Module 2  
-Equivalent: Completion of the GitHub Teacher Professional Development program
-
 
 ## Lessons
 **All assignment files can be found at the top of the page.**

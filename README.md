@@ -1,5 +1,5 @@
 # Welcome to GitHub Education Teacher Training
-Welcome to GitHub Education Teacher training. We’re so happy you’re here!  
+Welcome to GitHub Education Teacher Training. We’re so happy you’re here!  
 
 In this training, you will be presented with a mix of video lessons and assignments. All videos and assignments can be found in this repository under their respective modules.  
 

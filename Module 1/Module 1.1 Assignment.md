@@ -2,7 +2,7 @@
 
 For a majority of your assignments you will create issues on GitHub.
 
-In order to create an issue you will travel to the tab marked as `Issues`:
+In order to create an issue you will travel to the tab marked as `Issues` (**here is an example from the original repository; you will create your issues in your own repository**):
 
 ![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_one.png)
 

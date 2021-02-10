@@ -6,7 +6,7 @@ In this assignment, you’ll learn how to clone a repository on GitHub to your l
 
 1. Navigate to the main page of this repository on GitHub. Click the green button that says `Code` then copy the URL by clicking the gray clipboard icon. (**here is an example screenshot of the original repository; you will clone your own repository**)
  
-     ![GIF demonstrating how to copy a remote URL](https://user-images.githubusercontent.com/2359538/107438704-8d4c0280-6af6-11eb-8cd1-07f5af5e6ac1.png)
+     ![GIF demonstrating how to copy a remote URL](https://user-images.githubusercontent.com/2359538/107465091-36aaec80-6b27-11eb-8c04-fcc055dbaa0d.png)
 
 2. On the command line, type `git clone` along with the URL you copied earlier, then press Enter.  
 ```

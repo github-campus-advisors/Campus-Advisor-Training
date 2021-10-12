@@ -9,7 +9,7 @@ In each module, you will find video lessons marked with this icon 📺 and assig
 Your journey begins in Module 0, where you’ll setup everything you need to complete the training.
 
 ## Work at your own pace
-There is no grade or review for this training, so feel free to explore at your own pace. We hope the training will help you get started with GitHub and GitHub Education.
+There is no grade for this training and GitHub Education staff does not review your work, so feel free to explore at your own pace. We hope the training will help you get started with GitHub and GitHub Education.
 
 ## When you are finished
 

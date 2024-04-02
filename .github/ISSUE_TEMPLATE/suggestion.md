@@ -3,7 +3,6 @@ name: Suggestion
 about: Suggest an improvement for this training
 title: '[SUGGESTION] Suggestion title'
 labels: 'suggestion'
-assignees: 'arelia'
 
 ---
 
